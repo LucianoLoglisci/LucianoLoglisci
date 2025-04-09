@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi I'm Luciano ✨<br><br>🎓 Computer Science student @Università Telematica Pegaso </br><br>🚀 Junior Data Engineer | Passionate about tech, coding & data </br><br><br>💻 I love building data-driven solutions and optimizing processes through code. <br>From SQL queries to Python scripts, from relational DBs to NoSQL, I'm always exploring how to turn data into actionable insights. </br><br><br>🛠️ Tech Stack & Interests: </br><br><br>Python | SQL | Power BI | MongoDB<br><br>Oracle APEX development<br><br>Database design & data analysis<br><br>Automating workflows and improving UX with logic & CSS<br><br>Team collaboration & clean, maintainable code<br>
+## Hi I'm Luciano ✨<br><br>🎓 Computer Science student @Università Telematica Pegaso </br><br>🚀 Junior Data Engineer | Passionate about tech, coding & data </br><br><br>💻 I love building data-driven solutions and optimizing processes through code. <br>From SQL queries to Python scripts, from relational DBs to NoSQL, I'm always exploring how to turn data into actionable insights. </br><br><br>🛠️ Tech Stack & Interests: </br><br><br>Python | SQL | Power BI | PL/SQL | ORACLE APEX <br><br>- Oracle APEX development<br><br>- Database design & data analysis<br><br>- Automating workflows and improving UX with logic & CSS<br><br>- Team collaboration & clean, maintainable code<br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LucianoLoglisci&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucianoLoglisci&icon=0&color=0)](https://visitcount.itsvg.in)
